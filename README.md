@@ -1,1 +1,2 @@
 # HTMLclass
+This project will be a humerous take on the idea of "take a penny, leave a penny" cups at gas station register counters. This site will allow the user of the site to give a secret of theirs, and then there will be an output of someone elses secret.
