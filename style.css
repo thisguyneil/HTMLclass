@@ -1,0 +1,11 @@
+body {
+    margin-top: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(205, 210, 211);
+}   
+#mainheader {
+    text-align: center;
+}
+
